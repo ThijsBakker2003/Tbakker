@@ -1,4 +1,4 @@
-﻿//Thijs Bakker
+﻿//Thijs koekebakker
 using System;
 
 namespace opdracht_3
