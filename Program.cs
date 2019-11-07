@@ -1,4 +1,4 @@
-﻿//hoi
+﻿//Thijs Bakker
 using System;
 
 namespace opdracht_3
